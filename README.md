@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Bakhouche Akram</h1>
-<h4 align="center">A Full-Stack Web and Mobile Developer, I have been designing Web and Mobile applications for 8 years now. I particularly like working with Flutter, Dart, Laravel PHP Framework and Firebase! I'm also a PrestaShop / PHP expert, I do a lot of technological monitoring, allowing me to adapt quickly to the technical solutions that you could propose. With my eight (08) years of experience in web and mobile development, i support you in your projects from A to Z with the best assets to achieve your expectations. 🚀 Do not hesitate to contact me so that we can discuss your project!</h4>
+<h4 align="left">A Full-Stack Web and Mobile Developer, I have been designing Web and Mobile applications for 8 years now. I particularly like working with Flutter, Dart, Laravel PHP Framework and Firebase! I'm also a PrestaShop / PHP expert. <br>🚀 Do not hesitate to contact me!</h4>
 
 - 🔭 I’m currently working on [Batolis.com](https://batolis.com/fr/)
 
